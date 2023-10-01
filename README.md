@@ -1,6 +1,7 @@
 # flappy_bird
 
 A new Flutter project.
+A simple flappy bird game using flutter
 
 ## Getting Started
 
